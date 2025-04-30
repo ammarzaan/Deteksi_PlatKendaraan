@@ -6,6 +6,6 @@ Disusun oleh:
 | NRP: | 0922040029, 0922040043, 0922040047 |
 | Kelas: | TOVI-B |
 | Mata kuliah: | Praktikum Machine Vision |
-| Hari/Tanggal: | Rabu/24 April 2025 |
+| Hari/Tanggal: | Rabu/23 April 2025 |
 | Pekan ke: | ETS|
 | Dosen Pengampu: | Agus Khumaidi, S.ST., M.T. & Mustika Kurnia Mayangsari, S.T., M.Tr.T. |
