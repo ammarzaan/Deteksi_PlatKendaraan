@@ -1,7 +1,7 @@
 ### Deteksi plat kendaraan menggunakan aplikasi computer vision yang umum digunakan dalam sistem parkir otomatis, pengawasan lalu lintas, dan transportasi. Implementasinya memanfaatkan OpenCV untuk pengolahan citra dan Python karena kemudahan integrasi serta dukungan pustaka yang luas.
 ---
 Disusun oleh:
-| Nama: | Dhoifulloh Ammar Rozaan, Moch. Reihan Yumna Wahyudi, Faizal Dewayana putra |
+| Nama: | Dhoifulloh Ammar Rozaan, Moch. Reihan Yumna Wahyudi, M. Faizal Dewayana putra |
 | - | - |
 | NRP: | 0922040029, 0922040043, 0922040047 |
 | Kelas: | TOVI-B |
