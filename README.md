@@ -1,4 +1,4 @@
-Deteksi plat kendaraan pada aplikasi computer vision yang umum digunakan dalam sistem parkir otomatis, pengawasan lalu lintas, dan transportasi. Implementasinya memanfaatkan OpenCV untuk pengolahan citra dan Python karena kemudahan integrasi serta dukungan pustaka yang luas.
+### Deteksi plat kendaraan menggunakan aplikasi computer vision yang umum digunakan dalam sistem parkir otomatis, pengawasan lalu lintas, dan transportasi. Implementasinya memanfaatkan OpenCV untuk pengolahan citra dan Python karena kemudahan integrasi serta dukungan pustaka yang luas.
 ---
 Disusun oleh:
 | Nama: | Dhoifulloh Ammar Rozaan, Moch. Reihan Yumna Wahyudi, Faizal Dewayana putra |
@@ -9,3 +9,8 @@ Disusun oleh:
 | Hari/Tanggal: | Rabu/23 April 2025 |
 | Pekan ke: | ETS|
 | Dosen Pengampu: | Agus Khumaidi, S.ST., M.T. & Mustika Kurnia Mayangsari, S.T., M.Tr.T. |
+---
+Sebelum menjalankan program, *install* beberapa *library* yang ada pada *syntax* `import`
+1. *Install* OpenCV `cv2`
+2. *Install* Tkinter `tkinter`
+3. *Install* EasyOCR `easyocr`
